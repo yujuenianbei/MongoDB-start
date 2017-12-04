@@ -1,0 +1,1 @@
+e:\WEB\MongoDB\bin\mongod  --dbpath e:\WEB\MongoDB\data\db
