@@ -1,6 +1,7 @@
 # MongoDB windows使用教程
 
 author:yujuenianbei
+version:v0.0.1
 
 #### 注：本教程默认目录 E:\WEB\MongoDB 如果目录不同除了serverStart serverStop这两个之外所有的bat文件都需要进行修改
 
@@ -29,4 +30,5 @@ author:yujuenianbei
 ### 第五步
 
 开启serverStop.bat关闭MongoDB服务
+
 
